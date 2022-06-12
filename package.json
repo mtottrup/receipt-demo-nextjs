@@ -1,0 +1,37 @@
+{
+  "name": "receipts-demo-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.6.2",
+    "@heroicons/react": "^1.0.6",
+    "dropzone": "^6.0.0-beta.2",
+    "firebase": "^9.8.1",
+    "formik": "^2.2.9",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-csv": "^2.2.2",
+    "react-data-grid": "^7.0.0-beta.13",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "18.1.0",
+    "react-dropzone": "^14.2.1",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.15.1",
+    "react-pdf": "^5.7.2",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}

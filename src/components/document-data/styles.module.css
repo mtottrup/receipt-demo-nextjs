@@ -1,0 +1,10 @@
+.deleteButton {
+	@apply w-10 px-1 mt-2 ml-5 text-base font-bold bg-indigo-200 border rounded  border-slate-300 hover:bg-indigo-100 active:bg-indigo-400;
+}
+.label {
+	@apply text-sm font-bold;
+}
+
+.formButton {
+	@apply px-1 w-20 mt-2 mr-5 text-base font-bold bg-indigo-200 border rounded  border-slate-300 hover:bg-indigo-100 active:bg-indigo-400;
+}
